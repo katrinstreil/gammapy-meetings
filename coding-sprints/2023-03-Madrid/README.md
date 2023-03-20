@@ -79,5 +79,6 @@ X. Please add your name and GitHub name here...
 3. Abelardo Moralejo, IFAE, Barcelona, Spain
 4. Silvia Crestan, INAF-IASF Milano, Italy ([screstan](https://github.com/screstan))
 5. Cosimo Nigro, IFAE, Barcelona, Spain ([cosimoNigro](https://github.com/cosimoNigro))
+6. Katrin Streil, ECAP, Erlangen, Germany ([katrinstreil](https://github.com/katrinstreil))
 
 X. Please add your name and GitHub name here
